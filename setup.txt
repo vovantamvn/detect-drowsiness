@@ -1,0 +1,6 @@
+scipy
+imutils
+numpy
+playsound
+argparse
+
